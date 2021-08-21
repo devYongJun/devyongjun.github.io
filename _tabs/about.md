@@ -5,9 +5,7 @@ order: 4
 ---
 
 yyyongdev@gmail.com
-
-유니티 개발자로 일하고 있습니다  
-최근에는 서버개발을 공부 중입니다!  
+안녕하세요! 게임개발자 이용준입니다.  
   
 ---
 ### 경력
@@ -20,7 +18,7 @@ yyyongdev@gmail.com
 ---
 ### 교육
 
-| 2021.6 ~ 2021.8 | 멋쟁이사자처럼 | 웹 서비스 개발 |
+| 2021.6 ~ 2021.8 | 멋쟁이사자처럼 | 웹개발 과정 수료 |
 | 2015.3 ~ 2015.8 | 서울게임아카데미 | IOS 프로그래밍 수료 |
 | 2014.9 ~ 2015.2 | 서울게임아카데미 | Win32 API 프로그래밍 수료 |
 | 2011.1 ~ 2011.6 | 백제예술대학 | 실용음악과 드럼전공 중퇴 |
@@ -33,15 +31,14 @@ yyyongdev@gmail.com
 | 2017 | 스마일게이트 게임잼 |
   
 ---
-<!-- ### 회사 프로젝트
+### 회사 프로젝트
   
 #### 뽀로로 시리즈 - 키즈 교육,게임 
 [![유튜브링크](../../assets/img/aboutme/fairytale_title.png?raw=true)](https://www.youtube.com/watch?v=mwQwffmetO4)
 
 | 회사 | Kigle |
 | 서비스플랫폼 | Android, iOS |
-| 개발환경 | MacOS, Unity, Git, Rider, XCode, AndroidStudio |
-| 개발언어 | C#, Java, Objective-c |
+| 개발도구 | Unity, Git, C#, Java, Objective-c |
   
 ---
 #### Luv Revolution - 동영상스트리밍 가상데이트 게임
@@ -49,9 +46,7 @@ yyyongdev@gmail.com
 
 | 회사 | OasisVR |
 | 서비스플랫폼 | Android, GearVR, OculusGo |
-| 개발환경 | WindowsOS, Unity, SVN, AWS, VisualStudio, VSCode |
-| 개발언어 | C#, PHP |
-| 데이터베이스 | MySQL |
+| 개발도구 | Unity, SVN, C#, PHP, MySQL, AWS |
   
 ---
 #### Inn of Heros - 하우징 소셜네트워크 게임
@@ -59,29 +54,29 @@ yyyongdev@gmail.com
 
 | 회사 | Noknok |
 | 서비스플랫폼 | Android, iOS |
-| 개발환경 | MacOS, Cocos2dx, SVN, XCode |
-| 개발언어 | C++ |
+| 개발도구 | Cocos2dx, SVN, C++ |
   
 ---
 ### 개인 프로젝트
   
-### Fast Forward = 리듬 & 런 게임
-[![유튜브링크](/../assets/img/aboutme/fastforward_title.png?raw=true)](https://www.youtube.com/watch?v=U0e_LDCYiLE&feature=youtu.be)
-
-| 서비스플랫폼 | Android, iOS |
-| 개발환경 | MacOS, Unity, Git, AWS |
-| 개발언어 | C#, Javascript |
-| 데이터베이스 | MongoDB, Redis |
+#### 공공 쓰레기통 지도 - 멋쟁이 사자처럼
+[![유튜브링크](/../assets/img/aboutme/trashcanmap_title.jpg?raw=true)](https://youtu.be/9dHwOtbhmBA)
+| 개발 기간 | 2021.6 ~ 2021.7 |
+| 개발도구 | HTML, CSS, Javascript(Ajax), Python(Django) |
   
-현재는 시버스되지 않고 있습니다.
+멋쟁이 사자처럼 직장인 3기 1등  
   
 ---
-### 학생시절 만든 것들
+### Fast Forward - 인디개발 리듬 & 런 게임 
+[![유튜브링크](/../assets/img/aboutme/fastforward_title.png?raw=true)](https://www.youtube.com/watch?v=U0e_LDCYiLE&feature=youtu.be)
+| 개발기간 | 2017.6 ~ 2017.8 |
+| 서비스플랫폼 | Android, iOS |
+| 개발도구 | Unity, Git, AWS, C#, Javascript, MongoDB, Redis |
   
-#### Farland Tactics - 서울게임아카데미 포트폴리오
+현재는 서비스되지 않고 있습니다.
+
+---
+#### Farland Tactics - 서울게임 아카데미
 [![유튜브링크](/../assets/img/aboutme/farlandtactics_title.jpg?raw=true)](https://www.youtube.com/watch?v=fIR1YmMeKsU)
-
-| 개발환경 | WindowsOS, Win32 API, VisualStudio, FMOD |
-| 개발언어 | C++ |
-
---- -->
+| 개발 기간 | 2015.1 ~ 2015.3 |
+| 개발도구 | Win32 API, C++, FMOD |
