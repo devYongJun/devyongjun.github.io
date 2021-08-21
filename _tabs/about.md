@@ -69,7 +69,7 @@ yyyongdev@gmail.com
 | 서비스플랫폼 | Web |
 | 개발도구 | HTML, CSS, Javascript(Ajax), Python(Django) |
   
-멋쟁이 사자처럼 직장인 3기 1등  
+멋쟁이 사자처럼 직장인 온라인 3기 1등  
   
 ---
 ### Fast Forward - 리듬 & 런 게임 
