@@ -37,6 +37,7 @@ yyyongdev@gmail.com
 [![유튜브링크](../../assets/img/aboutme/fairytale_title.png?raw=true)](https://www.youtube.com/watch?v=mwQwffmetO4)
 
 | 회사 | Kigle |
+| 기간 | 2020.7 ~ 2021.7 |
 | 서비스플랫폼 | Android, iOS |
 | 개발도구 | Unity, Git, C#, Java, Objective-c |
   
@@ -45,6 +46,7 @@ yyyongdev@gmail.com
 [![유튜브링크](/../assets/img/aboutme/luvr_title.png?raw=true)](https://www.youtube.com/watch?v=stR0ZLL7L2Q)
 
 | 회사 | OasisVR |
+| 기간 | 2017.9 ~ 2019.12 |
 | 서비스플랫폼 | Android, GearVR, OculusGo |
 | 개발도구 | Unity, SVN, C#, PHP, MySQL, AWS |
   
@@ -53,6 +55,7 @@ yyyongdev@gmail.com
 [![유튜브링크](/../assets/img/aboutme/innofheros_title.png?raw=true)](https://www.youtube.com/watch?v=WEBBMYvKdI4)
 
 | 회사 | Noknok |
+| 기간 | 2016.1 ~ 2017.1 |
 | 서비스플랫폼 | Android, iOS |
 | 개발도구 | Cocos2dx, SVN, C++ |
   
@@ -63,7 +66,7 @@ yyyongdev@gmail.com
 [![유튜브링크](/../assets/img/aboutme/trashcanmap_title.jpg?raw=true)](https://youtu.be/9dHwOtbhmBA)
 
 | 교육 | 멋쟁이사자처럼 온라인 |
-| 개발 기간 | 2021.6 ~ 2021.7 |
+| 기간 | 2021.6 ~ 2021.7 |
 | 서비스플랫폼 | Web |
 | 개발도구 | HTML, CSS, Javascript(Ajax), Python(Django) |
   
@@ -73,8 +76,8 @@ yyyongdev@gmail.com
 ### Fast Forward - 리듬 & 런 게임 
 [![유튜브링크](/../assets/img/aboutme/fastforward_title.png?raw=true)](https://www.youtube.com/watch?v=U0e_LDCYiLE&feature=youtu.be)
 
-|  | 인디개발 | 
-| 개발기간 | 2017.6 ~ 2017.8 |
+| 인디개발 |  | 
+| 기간 | 2017.6 ~ 2017.8 |
 | 서비스플랫폼 | Android, iOS |
 | 개발도구 | Unity, Git, AWS, C#, Javascript, MongoDB, Redis |
   
@@ -85,5 +88,5 @@ yyyongdev@gmail.com
 [![유튜브링크](/../assets/img/aboutme/farlandtactics_title.jpg?raw=true)](https://www.youtube.com/watch?v=fIR1YmMeKsU)
 
 | 교육 | 서울게임 아카데미 | 
-| 개발 기간 | 2015.1 ~ 2015.3 |
+| 기간 | 2015.1 ~ 2015.3 |
 | 개발도구 | Win32 API, C++, FMOD |
